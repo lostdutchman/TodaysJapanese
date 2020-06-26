@@ -11,10 +11,17 @@ You can get the skills here:
 * [Todays Spanish Flash Brief](https://www.amazon.com/Lost-Dutchman-Software-Todays-Spanish/dp/B07BDP4NGW) 
 *If your not in the USA you’ll need to search your local Amazon skills for the skill that will work with your region*
 
-If you want to use this code base to make your own skills feel free, it is absolutely free to use so long as you are not making a Racist, Sexist, Homophobic, Transphobic, Xenophobic.. If your not sure or want further clarification reach out to us. 
-
 For more from us:
 * [LostDutchmanSoftware.com](http://lostdutchmansoftware.com/)
 * [Twitter @SoftDutch](https://twitter.com/SoftDutch)
 * [Instagram](https://www.instagram.com/lostdutchmansoftware/)
 * [Youtube](https://www.youtube.com/channel/UC0DOBzJirr9YCc0CMP7X32g)
+
+
+Copyright 2020 Lost Dutchman Software
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
